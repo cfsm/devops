@@ -16,6 +16,7 @@ namespace devops
         public Startup(IConfiguration configuration)
         {
             // GitHub
+            // Added Azure DevOps
             Configuration = configuration;
         }
 
